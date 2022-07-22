@@ -1,34 +1,35 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tony Dunsworth's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tony Dunsworth
+Database Administrator, Computer Aided Dispatch Administrator, Data Scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tony.dunsworth@gmail.com">tony.dunsworth@gmail.com</a>
+| <a href="https://github.com/trdunsworth">Github Page - Tony Dunsworth</a>
+| <a href="tel:+1913-538-1253">Tel: +1 913-538-1253</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Database Administrator for a Computer Aided Dispatch solution, PhD Student working on Public Safety Analytics
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Nonparametric statistics, Public Safety Answering Point (PSAP) systems, R programming
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+PSAP data analysis, Time Series forecasting, PSAP Staffing analysis
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1987 - 1991`
+__University of Kansas, Lawrence, KS.__ Bachelor's Degree - Lingustics
 
 `June 1661 - now`
 __Trinity College, Cambridge__
@@ -57,20 +58,6 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `1600`
@@ -86,6 +73,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
